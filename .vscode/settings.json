@@ -3,3 +3,4 @@
     ["cva(?:<[^>]*>)?(([^)]*))", "[\"'`]([^\"'`]*).*?[\"'`]", "(?:twMerge|twJoin)\\(([^\\);]*)[\\);]"]
   ]
 }
+"tailwindCSS.experimental.classRegex.fix":
